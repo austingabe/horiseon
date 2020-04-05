@@ -1,2 +1,3 @@
 # horiseon
-This is the repository that contains everything from Homework 1
+This is the repository that contains everything from Homework 1.
+This repository contains both the HTML and CSS code from the refactored home page of the Horiseon website. The design of the home page is exactly the same, but it has been optimized for search engines and accesibility. Code has been shortened and cleaned up, broken links fixed, and semantic tags added, so overall, the code is much clearer and easier to understand.
